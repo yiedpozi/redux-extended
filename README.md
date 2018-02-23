@@ -2,10 +2,9 @@
 Plugin to extend functionality on Redux Framework.
 
 ## Features
-1. Extend checkbox field
 <ul>
     <li>
-        Extend checkbox fieldadsadsad
+        Extend checkbox field
         <ul>
             <li>Select All/None</li>
         </ul>
@@ -23,7 +22,7 @@ Plugin to extend functionality on Redux Framework.
 </ol>
 
 ### Field Options
-More: <a href="https://github.com/yiedpozi/redux-extended/blob/master/Field-Options.md">https://github.com/yiedpozi/redux-extended/blob/master/Field-Options.md</a>
+More: <a href="https://github.com/yiedpozi/redux-extended/blob/master/FIELD_OPTION.md">https://github.com/yiedpozi/redux-extended/blob/master/FIELD_OPTION.md</a>
 
 ## Changelog
 <ul>
