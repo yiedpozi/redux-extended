@@ -22,7 +22,7 @@ Plugin to extend functionality on Redux Framework.
 </ol>
 
 ### Field Options
-More: <a href="https://github.com/yiedpozi/redux-extended/blob/master/FIELD_OPTION.md">https://github.com/yiedpozi/redux-extended/blob/master/FIELD_OPTION.md</a>
+More: <a href="https://github.com/yiedpozi/redux-extended/blob/master/FIELD_OPTIONS.md">https://github.com/yiedpozi/redux-extended/blob/master/FIELD_OPTIONS.md</a>
 
 ## Changelog
 <ul>
